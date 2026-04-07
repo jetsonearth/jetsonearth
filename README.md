@@ -48,7 +48,7 @@ Built several AI products from zero to one - took 2 from idea to revenue. Did ev
 | | |
 |---|---|
 | **[房不胜房](https://github.com/jetsonearth/fangbushengfang)** <br> **AI apartment hunting assistant for Shenzhen.** End the doom-scrolling. Natural language search over rental listings - describe what you want, get matches that actually make sense. <br> <sub>Python</sub> | **[Vox](https://github.com/jetsonearth/vox)** <br> **Voice recording pipeline automation.** Record, transcribe, analyze, and archive conversations into Obsidian - all with one command. <br> <sub>Python</sub> |
-| **[Unseal](https://github.com/jetsonearth/Unseal)** <br> **Extract transcripts from video into readable text.** YouTube and Bilibili. Subtitles first, ASR fallback when none exist. Outputs straight into your Obsidian daily note. <br> <sub>JavaScript</sub> | |
+| **[Unseal](https://github.com/jetsonearth/Unseal)** <br> **Extract transcripts from video into readable text.** YouTube and Bilibili. Subtitles first, ASR fallback when none exist. Outputs straight into your Obsidian daily note. <br> <sub>JavaScript</sub> | **[RobotAtlas](https://robot-atlas.vercel.app)** <br> **An evidence-backed atlas of Chinese robotics companies.** Curated map with geographic, value-chain, and category views across China's robotics ecosystem. <br> <sub>HTML - [GitHub](https://github.com/jetsonearth/RobotAtlas)</sub> |
 
 <br>
 
