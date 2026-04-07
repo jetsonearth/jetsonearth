@@ -119,6 +119,18 @@ Built several AI products from zero to one - took 2 from idea to revenue. Did ev
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Unseal](https://github.com/jetsonearth/Unseal)
+**Extract transcripts from video into readable text.** YouTube and Bilibili. Subtitles first, ASR fallback when none exist. Outputs straight into your Obsidian daily note.
+<br><sub>JavaScript</sub>
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 
 <br>
