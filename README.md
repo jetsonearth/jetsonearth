@@ -53,14 +53,5 @@ Built several AI products from zero to one - took 2 from idea to revenue. Did ev
 <br>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jetsonearth&show_icons=true&theme=transparent&hide_border=true&hide_title=true&count_private=true&text_color=888888&icon_color=888888&ring_color=888888" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jetsonearth&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=888888&fire=888888&currStreakLabel=888888&sideLabels=888888&currStreakNum=888888&sideNums=888888&dates=BBBBBB" height="165" />
-
-</div>
-
-<br>
-
-<div align="center">
 <sub>Building at the intersection of software and the physical world.</sub>
 </div>
